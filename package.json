@@ -1,0 +1,58 @@
+{
+  "_from": "react-native-multibar@0.0.13",
+  "_id": "react-native-multibar@0.0.13",
+  "_inBundle": false,
+  "_integrity": "sha512-j9mpggvhFEBcowmxZXfzgb1oE0dUadJzM1dhssIFMpgwxtXtL/F0/fHUwU3xTowjGRYe3ONduLXjOcPz0QNuRQ==",
+  "_location": "/react-native-multibar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-multibar@0.0.13",
+    "name": "react-native-multibar",
+    "escapedName": "react-native-multibar",
+    "rawSpec": "0.0.13",
+    "saveSpec": null,
+    "fetchSpec": "0.0.13"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-multibar/-/react-native-multibar-0.0.13.tgz",
+  "_shasum": "58a4f15b32b01f4280afcff7cfe9dfa52624bd11",
+  "_spec": "react-native-multibar@0.0.13",
+  "_where": "/home/vlad/Code/EmbraceApp",
+  "author": {
+    "name": "Alex Melnyk"
+  },
+  "bugs": {
+    "url": "https://github.com/alex-melnyk/react-native-multibar/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "MultiBar is a TabBar component with an advanced button to make extra actions.",
+  "homepage": "https://github.com/alex-melnyk/react-native-multibar#readme",
+  "keywords": [
+    "React",
+    "Native",
+    "Navigation",
+    "TabBar"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-multibar",
+  "peerDependencies": {
+    "babel-preset-react-native": "^4.0.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-native": "^0.60.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-melnyk/react-native-multibar.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.13"
+}
